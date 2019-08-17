@@ -371,20 +371,3 @@ We will now configure the PostgreSQL package
 
 **And all done! If you visit your application URL or your IP address, you should see your site live!**
 
-
-## References
-
-**Udacity Forums**
-
-**GitHub**
-**Special Thanks to *
-https://github.com/a-g-hantash/linux-server-configuration
-https://github.com/iliketomatoes/linux_server_configuration
-https://github.com/rrjoson/udacity-linux-server-configuration
-https://github.com/twhetzel/ud299-nd-linux-server-configuration
-https://github.com/stueken/FSND-P5_Linux-Server-Configuration
-https://github.com/kongling893/Linux-Server-Configuration-UDACITY
-https://github.com/louiscollinsjr/udacity-linux-server-configuration
-
-
-* for a very helpful README**
